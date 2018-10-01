@@ -9,7 +9,7 @@ FAQs for getting into tech
 * An inquisitive nature, you need to always be looking forwards
 * An insatiable appetite to learn, without learning you will stay still
 * The ability to simplify, Tech can be complex so you need to add simplicity (Colin Chapman once said of Motoracing cars to "Simplify and add lightness", the tech equivilent is "simplify and use less buzzwords")
-*
+
 
 ## What are the most important character traits for the tech industry?
 
