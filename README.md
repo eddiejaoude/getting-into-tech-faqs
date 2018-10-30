@@ -26,3 +26,10 @@ One or all of the following:
 - Tenacity, you wont get there in one step
 - Cooperation, It's not possible on your own
 - Growth Mindset, Doing more than you did yesterday 
+
+### Why you should get into the tech industry?
+
+- Tech is the ever growing epitome of innovation
+- Almost everything as of today has some kind of tech inside
+- Solutions to real world problems are found while working on one technology or another
+- It's fun to say "Tech Tech Techy Tech" [I hope it atleast makes someone smile :D]
